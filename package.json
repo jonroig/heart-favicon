@@ -6,7 +6,7 @@
   "jsnext": "./src/index.js",
   "scripts": {
     "build": "babel -d lib/ src/",
-    "prepublish": "npm run compile"
+    "prepublish": "npm run build"
   },
   "devDependencies": {
     "babel": "^5.8.29"
