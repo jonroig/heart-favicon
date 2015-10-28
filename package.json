@@ -1,6 +1,6 @@
 {
   "name": "heart-favicon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Heart Favicon",
   "main": "./lib/index.js",
   "jsnext": "./src/index.js",
